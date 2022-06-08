@@ -1,4 +1,4 @@
-# Altyapı [Nova Botlist] için yapılmıştır 💙
+# Süleyman 💙
  - [Discord Butonlu Rol Altyapısı](https://github.com/Suleywman/butonlu-rol)
       - Selamlar altyapı Süleyman#0001'a aittir. İyi kodlamalar!
       - [Kurulum](#kurulum)
