@@ -5,11 +5,11 @@
 
 
 # Kurulum
-~ Projeyi indirdikten sonra index.js dosyasında bulunan role1, role2, role3 IDlerini gir.
-~ Terminale `npm install` yazarak modülleri indir.
-~ client.login kısmına bot tokenini gir.
-~ `node index.js` yazarak botu başlat.
-~ !button komudunu kullanarak menüyü kullanabilirsin!
+* Projeyi indirdikten sonra index.js dosyasında bulunan role1, role2, role3 IDlerini gir.
+* Terminale `npm install` yazarak modülleri indir.
+* client.login kısmına bot tokenini gir.
+* `node index.js` yazarak botu başlat.
+* !button komudunu kullanarak menüyü kullanabilirsin!
 
 
 ## Botun İntentlerini Açmayı Unutma!
