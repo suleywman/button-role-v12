@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
-const  sulo   = require('discord-buttons')
+const buttonn = require('discord-buttons')
 const client = new Discord.Client()
-sulo(client);
+buttonn(client);
 
 const role1 = "984010057303859251" //1. rol idsi
 const role2 = "984010094863876136" //2. rol idsi
@@ -10,17 +10,17 @@ const role3 = "984010168939474944" //3. rol idsi
 client.on("message", (message) => {
   if (message.content !== "!button") return;
 
-  let Ar = new sulo.MessageButton()
+  let Ar = new buttonn.MessageButton()
     .setStyle('red') 
     .setLabel('Rol 1') 
     .setID('A'); 
 
-  let Br = new sulo.MessageButton()
+  let Br = new buttonn.MessageButton()
     .setStyle('green') 
     .setLabel('Rol 2') 
     .setID('B'); 
   
-  let Cr = new sulo.MessageButton()
+  let Cr = new buttonn.MessageButton()
     .setStyle("blurple") 
     .setLabel('Rol 3') 
     .setID('C'); 
