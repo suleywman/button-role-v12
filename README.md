@@ -1,4 +1,4 @@
-# Süleyman 💙
+# 
  - [Discord Butonlu Rol Altyapısı](https://github.com/Suleywman/button-role-v12)
       - Selamlar altyapı [suleywman](https://github.com/suleywman/)'a aittir. İyi kodlamalar!
       - [Kurulum](#kurulum)
